@@ -1,0 +1,53 @@
+{
+  "roots": [
+    "/Users/bereznevn/Documents/ProjectRepos/cursorTest/lab06"
+  ],
+  "generated_at": "2026-03-30T07:17:33.474148+00:00",
+  "notebooks": [
+    {
+      "notebook_path": "/Users/bereznevn/Documents/ProjectRepos/cursorTest/lab06/lab06_batchnorm_inclass_сolab.ipynb",
+      "cell_count": 33,
+      "placeholder_cells": [
+        {
+          "cell_index": 23,
+          "markers": [
+            "(?i)^\\s*#\\s*ваш\\s*код\\s*$"
+          ],
+          "marker_lines": [
+            {
+              "line_index": 0,
+              "raw_line": "#ваш код"
+            }
+          ]
+        }
+      ],
+      "datasets": [],
+      "has_dataset_loading": false,
+      "dataset_missing": false,
+      "missing_dataset_paths": []
+    },
+    {
+      "notebook_path": "/Users/bereznevn/Documents/ProjectRepos/cursorTest/lab06/lab06_task1.ipynb",
+      "cell_count": 3,
+      "placeholder_cells": [],
+      "datasets": [],
+      "has_dataset_loading": false,
+      "dataset_missing": false,
+      "missing_dataset_paths": []
+    },
+    {
+      "notebook_path": "/Users/bereznevn/Documents/ProjectRepos/cursorTest/lab06/lab06_task2.ipynb",
+      "cell_count": 3,
+      "placeholder_cells": [],
+      "datasets": [],
+      "has_dataset_loading": false,
+      "dataset_missing": false,
+      "missing_dataset_paths": []
+    }
+  ],
+  "ipynb_files": [
+    "/Users/bereznevn/Documents/ProjectRepos/cursorTest/lab06/lab06_batchnorm_inclass_сolab.ipynb",
+    "/Users/bereznevn/Documents/ProjectRepos/cursorTest/lab06/lab06_task1.ipynb",
+    "/Users/bereznevn/Documents/ProjectRepos/cursorTest/lab06/lab06_task2.ipynb"
+  ]
+}
